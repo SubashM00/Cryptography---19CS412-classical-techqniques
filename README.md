@@ -89,7 +89,8 @@ printf("\n"); // New line after output
 }
 ```
 ## OUTPUT:
-![Screenshot 2025-03-26 085205](https://github.com/user-attachments/assets/2a8f6d5b-105b-48d6-80ae-0e22c924265e)
+![Screenshot 2025-03-26 085317](https://github.com/user-attachments/assets/aa679630-a997-4937-9d1c-f388901398b8)
+
 ## RESULT:
 The program is executed successfully
 
